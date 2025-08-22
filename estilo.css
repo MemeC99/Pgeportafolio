@@ -5,7 +5,7 @@ body{
 model-viewer {
     width: 100vw;
     height: 100vh;
-    filter: saturate(100%) 
-    contrast(100%)
+    filter: saturate(110%) 
+    contrast(70%)
     brightness(100%);
 }
